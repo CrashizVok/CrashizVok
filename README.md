@@ -1,4 +1,4 @@
-## 👋 Hi, I’m CrashiZ (Regő Ronyecz)
+## 👋 Hi, I’m CrashiZ (Regő Botond Ronyecz)
 
 - 👀 I’m interested in penetration testing, CTF competitions, red teaming, and cybersecurity research.  
 - 🌱 I’m currently learning Spring Boot, REST API development, and advanced Java techniques.  
