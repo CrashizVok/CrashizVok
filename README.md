@@ -1,12 +1,12 @@
 <div align="center">
 
-![CrashiZ](assets/masthead.svg)
+<h1>CrashiZ</h1>
+
+Purple teamer, pentester and .NET developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronyecz-rego) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/CrashiZ_) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/CrashiZ) [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/1732886) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rronyecz@protonmail.com)
 
 </div>
-
----
 
 ## About
 
@@ -22,15 +22,11 @@ Specialties: **web exploitation** (XSS, SQLi, IDOR, CSRF, SSRF), **privilege esc
 
 **Top 8% on TryHackMe** at 16. Open to CTF teams and open-source security work.
 
----
-
 ## Stack
 
 ![C#](https://img.shields.io/badge/c%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-
----
 
 ## Security tooling
 
@@ -41,8 +37,6 @@ Specialties: **web exploitation** (XSS, SQLi, IDOR, CSRF, SSRF), **privilege esc
 | Cracking and platform | Reverse engineering | OSINT and recon |
 | --- | --- | --- |
 | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)<br>![Hashcat](https://img.shields.io/badge/Hashcat-4A4A4A?style=flat-square&logoColor=white)<br>![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=flat-square&logoColor=white)<br>![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=flat-square&logoColor=white) | ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logoColor=white)<br>![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-4B0082?style=flat-square&logoColor=white) | ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat-square&logoColor=white)<br>![theHarvester](https://img.shields.io/badge/theHarvester-228B22?style=flat-square&logoColor=white)<br>![Amass](https://img.shields.io/badge/Amass-1E90FF?style=flat-square&logoColor=white) |
-
----
 
 ## Stats
 
